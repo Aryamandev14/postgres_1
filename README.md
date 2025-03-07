@@ -1,1 +1,1 @@
-# postgres_1
+index.ts => WRITE A FUNCTION TO CREATE A USERS TABLE IN DB
